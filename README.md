@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Small projects
 * [PM Quiz](https://lucasmontanheiro.github.io/quiz/)
-* [Prediction Model for 2025 Brazilian Championship Rounds]([https://lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/))
-* [Book Notes]([https://lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/book-notes/))
+* [Prediction Model for 2025 Brazilian Championship Rounds](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/)
+* [Book Notes](https://lucasmontanheiro.github.io/book-notes/)
 
 ### 📫 Connect with Me
 * [LinkedIn](https://www.linkedin.com/in/lucasmontanheiro/)
