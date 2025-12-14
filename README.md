@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **lucasmontanheiro/lucasmontanheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 📫 Connect with Me
+* [LinkedIn](https://linkedin.com/in/lucasmontanheiro)
+* [Portfolio Website](https://yourwebsite.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?lucasmontanheiro=your-github-username&color=blue)
