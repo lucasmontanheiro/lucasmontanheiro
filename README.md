@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Small projects
+* [PM Quizz](lucasmontanheiro.github.io/quiz/)
+* [Prediction Model for 2025 Brazilian Championship Rounds]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/))
+* [Book Notes]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/book-notes/))
+
 ### 📫 Connect with Me
 * [LinkedIn](https://linkedin.com/in/lucasmontanheiro)
 * [Portfolio Website](https://yourwebsite.com)
