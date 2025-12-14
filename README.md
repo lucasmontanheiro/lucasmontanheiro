@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Small projects
-* [PM Quizz](lucasmontanheiro.github.io/quiz/)
+* [PM Quiz](lucasmontanheiro.github.io/quiz/)
 * [Prediction Model for 2025 Brazilian Championship Rounds]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/))
 * [Book Notes]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/book-notes/))
 
