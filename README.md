@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Small projects
-* [PM Quiz](lucasmontanheiro.github.io/quiz/)
-* [Prediction Model for 2025 Brazilian Championship Rounds]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/))
-* [Book Notes]([lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/book-notes/))
+* [PM Quiz](https://lucasmontanheiro.github.io/quiz/)
+* [Prediction Model for 2025 Brazilian Championship Rounds]([https://lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/))
+* [Book Notes]([https://lucasmontanheiro.github.io/quiz/](https://lucasmontanheiro.github.io/book-notes/))
 
 ### 📫 Connect with Me
-* [LinkedIn](https://linkedin.com/in/lucasmontanheiro)
+* [LinkedIn](https://www.linkedin.com/in/lucasmontanheiro/)
 * [Portfolio Website](https://yourwebsite.com)
 
 ![Visitor Count](https://komarev.com/ghpvc/?lucasmontanheiro=your-github-username&color=blue)
