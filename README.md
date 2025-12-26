@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Small applications
+* [Web Tools](https://lucasmontanheiro.github.io/tools/)
 * [Prototyping](https://lucasmontanheiro.github.io/prototyping/)
 * [PM Quiz](https://lucasmontanheiro.github.io/quiz/)
 * [Prediction Model for 2025 Brazilian Championship Rounds](https://lucasmontanheiro.github.io/brasileirao2025_prediction_model/)
@@ -23,4 +24,4 @@ Here are some ideas to get you started:
 * [LinkedIn](https://www.linkedin.com/in/lucasmontanheiro/)
 * [Portfolio Website](https://yourwebsite.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?lucasmontanheiro=your-github-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/??username=lucasmontanheiro&color=blue)
