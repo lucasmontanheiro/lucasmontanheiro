@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 ### Applications
+* [Sound Mixer: Practice & Record Guitar with Background tracks](https://lucasmontanheiro.github.io/sound-mixer/)
+* [Rolezero.com.br: cultural events in Brazil](https://rolezero.com.br/)
 * [Bisk8s](https://lucasmontanheiro.github.io/bisk8/)
 * [Web Tools](https://lucasmontanheiro.github.io/tools/)
 * [Prototyping](https://lucasmontanheiro.github.io/prototyping/)
